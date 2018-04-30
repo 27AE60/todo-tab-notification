@@ -1,9 +1,5 @@
 {
   "id": "1",
   "type": "release",
-  "value": "<div> \
-          <div class='ntf-cnt-title'>Where is the love?</div> \
-          <div class='ntf-cnt-cnt'>Something blah blah</div> \
-          <a class='ntf-cnt-cta' href='' target='__blank'>Learn More</a> \
-        </div>"
+  "value": "<div><div class='ntf-cnt-title'>Where is the love?</div><div class='ntf-cnt-cnt'>Something blah blah</div><a class='ntf-cnt-cta' href='' target='__blank'>Learn More</a></div>"
 }
